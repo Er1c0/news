@@ -12,6 +12,3 @@
 - [npm 发布 v6.11.0 版本，从本版本开始，npm 永远不在 root 权限文件夹之外的地方创建 root 权限文件](https://blog.npmjs.org/post/187146797665/release-6110)
 - [Vue CLI 发布 v4.0.0-rc.0](https://github.com/vuejs/vue-cli/releases/tag/v4.0.0-rc.0)
 - [Remax - 使用真正的 React 构建小程序](https://zhuanlan.zhihu.com/p/79788488)
-- ​
-
-
